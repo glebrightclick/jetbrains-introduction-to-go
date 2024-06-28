@@ -1,0 +1,40 @@
+hyperskill_project:
+  id: 421
+  ide_files: https://cogniterra.org/media/attachments/lesson/34349/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Fri, 28 Jun 2024 11:50:10 UTC"
+stages:
+  - id: 2451
+    step: 40248
+    is_completed: false
+  - id: 2452
+    step: 40249
+    is_completed: false
+  - id: 2453
+    step: 40250
+    is_completed: false
+topics:
+  0:
+    - title: Introduction to Go
+      theory_id: 17073
+    - title: Comments
+      theory_id: 16689
+    - title: Variables and constants
+      theory_id: 14468
+    - title: GoLand
+      theory_id: 19072
+    - title: Input/Output
+      theory_id: 14527
+  1:
+    - title: Primitive types
+      theory_id: 16871
+    - title: Arithmetic operations
+      theory_id: 16679
+    - title: Arithmetic expressions in programming
+      theory_id: 17289
+  2:
+    - title: Strings
+      theory_id: 15412
+    - title: String formatting
+      theory_id: 16860

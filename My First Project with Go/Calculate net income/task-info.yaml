@@ -1,0 +1,15 @@
+type: remote_edu
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+  - name: test/MyFirstProjectTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/40250#comment
+check_profile: hyperskill_go
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 28 Jun 2024 14:24:27 UTC"
+record: -1
